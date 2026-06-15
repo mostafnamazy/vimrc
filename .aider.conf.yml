@@ -1,0 +1,2 @@
+model: openai/claude-sonnet-4-6
+weak-model: openai/claude-haiku-4-5
